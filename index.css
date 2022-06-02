@@ -98,9 +98,9 @@ body {
 }
 
 .footer {
-  position: absolute;
+  position: relative;
   left: 0;
-  bottom: -190px;
+  bottom: 0;
   width: 100%;
   padding: 1.5%;
   background-color: #39FF14;
