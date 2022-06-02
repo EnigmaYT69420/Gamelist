@@ -143,7 +143,7 @@ header{
    margin-top: 3px;
    margin-left:-40px;
    font-size: 17px;
-   position: relative;
+   position: absolute;
    left: 160px;
 }
 
