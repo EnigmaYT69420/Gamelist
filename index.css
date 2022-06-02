@@ -91,6 +91,8 @@ header{
  
 #menu{
     float: right;
+    margin-top: -60px;
+    margin-left: 100px;
     width: 65%;
     height: 100%;
     margin: none;
@@ -147,6 +149,20 @@ header{
 
 .column {
   float: left;
-  width: 30%;
+  width: 28%;
   padding: 15px;
 }
+
+.game1 {
+  float: left;
+  width: 30%;
+  padding: 15px;
+  }
+ 
+.game2{
+  float: left;
+  width: 30%;
+  height: 34%;
+}
+
+
