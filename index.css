@@ -11,8 +11,9 @@ body{
     margin: 0px;
     padding: 0px;
     background: red;
-    font-family: 'Roboto';
+    font-family: Arial, Helvetica, san-serif;
     font-size: 12pt;
+    background-image: linear-gradient(to bottom right, #101010, #282828);
 }
     
 p, ol, ul{
